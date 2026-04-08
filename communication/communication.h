@@ -1,4 +1,4 @@
-/* DUQUEYROIX Saul 12313228 
+/* HADIOUI Yacine 12204279
 Je déclare qu'il s'agit de mon propre travail.
 Ce travail a été réalisé intégralement par un être humain. */
 #ifndef BUFFER_H
